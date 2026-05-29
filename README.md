@@ -1,0 +1,1 @@
+# SmartKrdit.paymentgateways
